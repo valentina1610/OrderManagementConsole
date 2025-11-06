@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace SimulacroParcial.Models
 {
-    internal class MailShipping
+    public class MailShipping : IShippingStrategy
     {
+        public double CalculateCost(double subtotal)
+        {
+            return subtotal * 10000;
+        }
     }
 }

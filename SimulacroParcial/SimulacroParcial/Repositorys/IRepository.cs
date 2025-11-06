@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace SimulacroParcial.Repository
 {
-    internal interface IRepository
+    public interface IRepository<T>
     {
+        void Save(T entity);
+        List<T> GetAll();
     }
 }

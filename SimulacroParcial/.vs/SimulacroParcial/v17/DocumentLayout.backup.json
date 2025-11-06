@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\models\\ishippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\models\\ishippingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\models\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\models\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\models\\pickupshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\models\\pickupshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\models\\mailshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\models\\mailshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\models\\motoshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\models\\motoshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\models\\iorderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\models\\iorderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\repositorys\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\repositorys\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\repositorys\\repositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\repositorys\\repositoryjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\views\\orderview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\views\\orderview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\simulacroparcial\\simulacroparcial\\simulacroparcial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\simulacroparcial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +74,216 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PickupShipping.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\PickupShipping.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Models\\PickupShipping.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\PickupShipping.cs",
+              "RelativeToolTip": "SimulacroParcial\\Models\\PickupShipping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:41:45.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MailShipping.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\MailShipping.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Models\\MailShipping.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\MailShipping.cs",
+              "RelativeToolTip": "SimulacroParcial\\Models\\MailShipping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:40:50.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MotoShipping.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\MotoShipping.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Models\\MotoShipping.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\MotoShipping.cs",
+              "RelativeToolTip": "SimulacroParcial\\Models\\MotoShipping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:40:32.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IShippingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\IShippingStrategy.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Models\\IShippingStrategy.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\IShippingStrategy.cs",
+              "RelativeToolTip": "SimulacroParcial\\Models\\IShippingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:40:00.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\OrderBuilder.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Models\\OrderBuilder.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\OrderBuilder.cs",
+              "RelativeToolTip": "SimulacroParcial\\Models\\OrderBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:38:41.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\IOrderBuilder.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Models\\IOrderBuilder.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\IOrderBuilder.cs",
+              "RelativeToolTip": "SimulacroParcial\\Models\\IOrderBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:38:30.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositoryJson.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Repositorys\\RepositoryJson.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Repositorys\\RepositoryJson.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Repositorys\\RepositoryJson.cs",
+              "RelativeToolTip": "SimulacroParcial\\Repositorys\\RepositoryJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:29:50.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Repositorys\\IRepository.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Repositorys\\IRepository.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Repositorys\\IRepository.cs",
+              "RelativeToolTip": "SimulacroParcial\\Repositorys\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:29:38.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Services\\OrderService.cs",
+              "RelativeToolTip": "SimulacroParcial\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:28:28.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\Order.cs",
+              "RelativeToolTip": "SimulacroParcial\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:28:21.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Models\\Product.cs",
+              "RelativeToolTip": "SimulacroParcial\\Models\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:18:42.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SimulacroParcial\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:27:16.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SimulacroParcial",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\SimulacroParcial.csproj",
+              "RelativeDocumentMoniker": "SimulacroParcial\\SimulacroParcial.csproj",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\SimulacroParcial.csproj",
+              "RelativeToolTip": "SimulacroParcial\\SimulacroParcial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T19:21:35.753Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
+              "Title": "OrderView.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Views\\OrderView.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Views\\OrderView.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Views\\OrderView.cs",
+              "RelativeToolTip": "SimulacroParcial\\Views\\OrderView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:18:48.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SimulacroParcial\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:18:36.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Program.cs",
               "RelativeDocumentMoniker": "SimulacroParcial\\Program.cs",
               "ToolTip": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\Program.cs",
               "RelativeToolTip": "SimulacroParcial\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T19:10:36.282Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimulacroParcial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c880ac6e91ccc8cd265cb198c93e918fe481fa0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13302394f88dcde34458c07cd0f9e4bbc24f8e80")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimulacroParcial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimulacroParcial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

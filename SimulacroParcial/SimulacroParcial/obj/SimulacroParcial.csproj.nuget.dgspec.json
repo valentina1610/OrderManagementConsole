@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\SimulacroParcial.csproj": {}
+    "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\SimulacroParcial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\SimulacroParcial.csproj": {
+    "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\SimulacroParcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\SimulacroParcial.csproj",
+        "projectUniqueName": "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\SimulacroParcial.csproj",
         "projectName": "SimulacroParcial",
-        "projectPath": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\SimulacroParcial.csproj",
+        "projectPath": "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\SimulacroParcial.csproj",
         "packagesPath": "C:\\Users\\gc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gc\\source\\repos\\SimulacroParcial\\SimulacroParcial\\obj\\",
+        "outputPath": "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

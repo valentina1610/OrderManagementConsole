@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimulacroParcial.Controller
 {
-    internal class ProductController
+    public class ProductController
     {
     }
 }

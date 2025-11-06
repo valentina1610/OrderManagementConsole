@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SimulacroParcial.Models
 {
-    internal class IShippingStrategy
+    public interface IShippingStrategy
     {
+        double CalculateCost(double subtotal);
     }
 }
