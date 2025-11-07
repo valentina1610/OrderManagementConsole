@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using SimulacroParcial.Model;
 
@@ -9,21 +10,24 @@ namespace SimulacroParcial.Models
 {
     public class Order
     {
-        public List<Product> productsList { get; set; }
+        public List<Product> productsList { get; set; } = new List<Product>();
         public string client { get; set; }
         public string adress { get; set; }
+        [JsonIgnore] // <- esto evita que System.Text.Json trate de serializar la interfaz
         public IShippingStrategy shipping { get; set; } 
+        public string shippingType { get; set; }
         public double total { get; set; }
 
         public Order() { }
 
-        public Order(List<Product> productsList, string client, string adress, IShippingStrategy shipping, double total)
+        public Order(List<Product> productsList, string client, string adress, IShippingStrategy shipping, double total, string shippingType)
         {
             this.productsList = productsList;
             this.client = client;
             this.adress = adress;
             this.shipping = shipping;
             this.total = total;
+            this.shippingType = shippingType;
         }
         public double CalculateSubtotal()
         {

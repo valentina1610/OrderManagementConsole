@@ -10,7 +10,7 @@ namespace SimulacroParcial.Models
     {
         public double CalculateCost(double subtotal)
         {
-            return subtotal * 5000;
+            return 2000;
         }
     }
 }

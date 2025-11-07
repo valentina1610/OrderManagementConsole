@@ -15,6 +15,10 @@ namespace SimulacroParcial.Models
             order = new Order();
             order.productsList = new List<Product>();
         }
+        public List<Product> GetProducts()
+        {
+            return order.productsList;
+        }
         public void SetClient(string client, string adress)
         {
             order.client = client;
@@ -28,6 +32,9 @@ namespace SimulacroParcial.Models
         public void SetShipping(IShippingStrategy shipping)
         {
             order.shipping = shipping;
+            if (shipping is MotoShipping) order.shippingType = "Moto";
+            else if (shipping is MailShipping) order.shippingType = "Mail";
+            else order.shippingType = "Pickup";
         }
         //construye el pedido final y calcula el total
         public Order Build()

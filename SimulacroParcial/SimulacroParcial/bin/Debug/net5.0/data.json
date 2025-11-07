@@ -1,0 +1,74 @@
+[
+  {
+    "productsList": [],
+    "client": null,
+    "adress": null,
+    "shippingType": null,
+    "total": 0
+  },
+  {
+    "productsList": [
+      {
+        "name": "a",
+        "price": 1,
+        "quantity": 1
+      }
+    ],
+    "client": "a",
+    "adress": "a",
+    "shippingType": "Moto",
+    "total": 5002
+  },
+  {
+    "productsList": [
+      {
+        "name": "b",
+        "price": 1,
+        "quantity": 1
+      }
+    ],
+    "client": "b",
+    "adress": "b",
+    "shippingType": "Pickup",
+    "total": 2
+  },
+  {
+    "productsList": [
+      {
+        "name": "o",
+        "price": 3,
+        "quantity": 3
+      }
+    ],
+    "client": "o",
+    "adress": "o",
+    "shippingType": "Pickup",
+    "total": 9
+  },
+  {
+    "productsList": [
+      {
+        "name": "a",
+        "price": 1,
+        "quantity": 1
+      }
+    ],
+    "client": "moto",
+    "adress": "a",
+    "shippingType": "Moto",
+    "total": 2001
+  },
+  {
+    "productsList": [
+      {
+        "name": "e",
+        "price": 1,
+        "quantity": 1
+      }
+    ],
+    "client": "e",
+    "adress": "e",
+    "shippingType": "Pickup",
+    "total": 1
+  }
+]

@@ -14,8 +14,8 @@ namespace SimulacroParcial.Repository
         private string file = "data.json";
         public void Save(Order order)
         {
-            var orders = GetAll();
-            orders.Add(order);
+            var orders = GetAll(); //carga todos los pedidos existentes
+            orders.Add(order); //agrega el nuevo
             var json = JsonSerializer.Serialize(orders, new JsonSerializerOptions { WriteIndented = true });
             File.WriteAllText(file, json);
         }

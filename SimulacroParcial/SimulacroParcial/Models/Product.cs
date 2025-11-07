@@ -8,9 +8,9 @@ namespace SimulacroParcial.Model
 {
     public class Product
     {
-        string name { get; set; }
-        double price { get; set; }
-        int quantity { get; set; }
+        public string name { get; set; }
+        public double price { get; set; }
+        public int quantity { get; set; }
         public Product() { }
 
         public Product(string name, double price, int quantity)

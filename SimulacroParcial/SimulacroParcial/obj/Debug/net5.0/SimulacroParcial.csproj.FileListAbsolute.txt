@@ -1,0 +1,16 @@
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\bin\Debug\net5.0\SimulacroParcial.exe
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\bin\Debug\net5.0\SimulacroParcial.deps.json
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\bin\Debug\net5.0\SimulacroParcial.runtimeconfig.json
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\bin\Debug\net5.0\SimulacroParcial.runtimeconfig.dev.json
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\bin\Debug\net5.0\SimulacroParcial.dll
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\bin\Debug\net5.0\SimulacroParcial.pdb
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\obj\Debug\net5.0\SimulacroParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\obj\Debug\net5.0\SimulacroParcial.AssemblyInfoInputs.cache
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\obj\Debug\net5.0\SimulacroParcial.AssemblyInfo.cs
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\obj\Debug\net5.0\SimulacroParcial.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\obj\Debug\net5.0\SimulacroParcial.sourcelink.json
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\obj\Debug\net5.0\SimulacroParcial.dll
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\obj\Debug\net5.0\refint\SimulacroParcial.dll
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\obj\Debug\net5.0\SimulacroParcial.pdb
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\obj\Debug\net5.0\SimulacroParcial.genruntimeconfig.cache
+C:\Users\gc\source\repos\OrderManagementConsole\SimulacroParcial\SimulacroParcial\obj\Debug\net5.0\ref\SimulacroParcial.dll
