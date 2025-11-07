@@ -45,7 +45,6 @@ namespace SimulacroParcial.View
 
         public void ShowOrder(Order order)
         {
-            Console.Clear();
             Console.WriteLine($"----- ORDER DETAILS -----");
             Console.WriteLine($"Client: {order.client}");
             Console.WriteLine($"Address: {order.adress}");

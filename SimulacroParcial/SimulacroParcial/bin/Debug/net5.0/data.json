@@ -1,12 +1,5 @@
 [
   {
-    "productsList": [],
-    "client": null,
-    "adress": null,
-    "shippingType": null,
-    "total": 0
-  },
-  {
     "productsList": [
       {
         "name": "a",
@@ -70,5 +63,31 @@
     "adress": "e",
     "shippingType": "Pickup",
     "total": 1
+  },
+  {
+    "productsList": [
+      {
+        "name": "i",
+        "price": 1,
+        "quantity": 1
+      }
+    ],
+    "client": "i",
+    "adress": "i",
+    "shippingType": "Moto",
+    "total": 2001
+  },
+  {
+    "productsList": [
+      {
+        "name": "f",
+        "price": 4,
+        "quantity": 4
+      }
+    ],
+    "client": "f",
+    "adress": "f",
+    "shippingType": "Pickup",
+    "total": 16
   }
 ]

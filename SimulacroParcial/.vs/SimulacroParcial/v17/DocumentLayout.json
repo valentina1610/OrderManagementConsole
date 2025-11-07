@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\bin\\Debug\\net5.0\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimulacroParcial\\bin\\Debug\\net5.0\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\ordermanagementconsole\\simulacroparcial\\simulacroparcial\\views\\orderview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\views\\orderview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\ordermanagementconsole\\simulacroparcial\\simulacroparcial\\views\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\views\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|c:\\users\\gc\\source\\repos\\ordermanagementconsole\\simulacroparcial\\simulacroparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D54EAC8-881F-4DE4-9EDD-DB3498FA71FD}|SimulacroParcial\\SimulacroParcial.csproj|solutionrelative:simulacroparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,15 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\bin\\Debug\\net5.0\\data.json",
+              "RelativeDocumentMoniker": "SimulacroParcial\\bin\\Debug\\net5.0\\data.json",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\bin\\Debug\\net5.0\\data.json",
+              "RelativeToolTip": "SimulacroParcial\\bin\\Debug\\net5.0\\data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T18:32:00.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductView.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\Views\\ProductView.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Views\\ProductView.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\Views\\ProductView.cs",
+              "RelativeToolTip": "SimulacroParcial\\Views\\ProductView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:31:06.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderView.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\Views\\OrderView.cs",
+              "RelativeDocumentMoniker": "SimulacroParcial\\Views\\OrderView.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\Views\\OrderView.cs",
+              "RelativeToolTip": "SimulacroParcial\\Views\\OrderView.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAEwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:31:02.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\Program.cs",
               "RelativeDocumentMoniker": "SimulacroParcial\\Program.cs",
               "ToolTip": "C:\\Users\\gc\\source\\repos\\OrderManagementConsole\\SimulacroParcial\\SimulacroParcial\\Program.cs",
               "RelativeToolTip": "SimulacroParcial\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAIAwwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAewAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T15:08:22.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T15:08:22.545Z"
             }
           ]
         }
